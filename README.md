@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nnielaf/Nnielaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # ✦ I'm **Danniel**, Thanks for looking at my Github 😶‍🌫️ ✦
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ola :)
+Prazer meu nome é Danniel, Obrigada por dar uma espiada no meu Github. 😶‍🌫️
+
+Sou iniciante no ramo então tenho muito a aprender :D
+
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hieossified-second&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=hieossified-second&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hieossified-second&layout=donut&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=hieossified-second&layout=donut&langs_count=4&theme=midnight-purple)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=hieossified-second&repo=hieossified-second/Projeto-Banco-simples&description_lines_count=1&theme=midnight-purple)](https://github.com/hieossified-second/Projeto-Banco-simples)
+
+**Sobre mim**:
+
+
+* ✦ 🌱 Atualmente estou fazendo _Analise e Desenvolvimento de Sistema na instituição Senac_.
+* ✦ 😄 Pronomes: Ele/Dele.
+
+  # ✦ 📫 Como me contatar  <a href = "mailto:daangeloo2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/danniel-angelo-537162313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
+# Linguagens em APRENDIZADO:
+
+<img width="50" height="50" alt="python (1)" src="https://github.com/user-attachments/assets/d49e8267-fcfd-4d04-b348-1c8ed057d710" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/169193d6-9c17-46f6-ae3b-f9848d92673d" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/987e841d-613f-461b-8289-40e82d9695b8" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4a0255f0-ac6f-488b-80bb-bcecf898ea1f" /> <img width="50" height="50" alt="image" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" /> <img width="50" height="50" alt="image" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" />  <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQcewaXtlMzihptZmneI7szn9S-9kTlzlOl7EY2nJYA&s=10" /> <img width="50" height="50" alt="image" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" />
+# Outros programas que sei utilizar:
+
+<img width="50" height="50" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+
+### Commits :)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+---------------------------------------------------------------------------------------
+
+
+#### Creditos a Rafaella Ballerini e 
+#### mari4souza pela ajuda a personalizacao do meu perfil 
